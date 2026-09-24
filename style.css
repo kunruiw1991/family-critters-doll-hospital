@@ -6,3 +6,5 @@
 @media(min-width:1450px){.doll{width:250px;height:500px;bottom:-25px}}
 @media(max-width:1050px){.friend-card{gap:5px}.friend-card .portrait{width:42px;height:84px}}
 @media(max-width:700px){.doll{width:200px;height:400px;bottom:-20px}.friend-card{gap:2px}.friend-card .portrait{width:36px;height:72px}.collection-card .doll{width:66px;height:132px}}
+
+.round{padding:0;flex-shrink:0;white-space:nowrap}
